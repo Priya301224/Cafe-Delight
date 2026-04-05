@@ -41,13 +41,12 @@ Café-Delight/
 
 ## 📸 Screenshots
 
-(Add screenshots of your project here)
+images/login.png
+images/menu.png
 
 ---
 
-## 🌐 Live Demo
 
-(Add your GitHub Pages link here if deployed)
 
 ---
 
@@ -56,8 +55,7 @@ Café-Delight/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-```
+git clone https://github.com/Priya301224/Cafe-Delight.git
 
 2. Open the project folder
 
