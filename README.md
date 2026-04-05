@@ -1,33 +1,19 @@
-# ☕ Café Delight Website
+☕ Café Delight Website
+A modern and responsive café website built using HTML, CSS, JavaScript, and Bootstrap. This project showcases a stylish UI for a café, including menu display, events, and contact features.
 
-A modern and responsive café website built using **HTML, CSS, JavaScript, and Bootstrap**.
-This project showcases a stylish UI for a café, including menu display, events, and contact features.
-
----
-
-## 🚀 Features
-
-* 🏠 Attractive Home Page
-* 📋 Interactive Menu Section
-* 🎵 Café Concerts & Musical Nights Section
-* 📱 Fully Responsive Design (Mobile + Desktop)
-* 📩 Contact Form UI
-* 🎨 Clean and modern Bootstrap styling
-
----
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-
----
-
-## 📂 Project Structure
-
-```
+🚀 Features
+🏠 Attractive Home Page
+📋 Interactive Menu Section
+🎵 Café Concerts & Musical Nights Section
+📱 Fully Responsive Design (Mobile + Desktop)
+📩 Contact Form UI
+🎨 Clean and modern Bootstrap styling
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+Bootstrap
+📂 Project Structure
 Café-Delight/
 │── index.html
 │── css/
@@ -35,26 +21,30 @@ Café-Delight/
 │── js/
 │   └── script.js
 │── images/
-```
+📸 Screenshots
+🏠 Home Page
+Home
 
----
+📋 Menu Page
+Menu
 
-## 📸 Screenshots
+📖 About Us Page
+About Us
 
-images/login.png
-images/menu.png
+📞 Contact Us Page
+Contact
 
----
+🎉 Events Page
+Events
 
+🔐 Login Page
+Login
 
+🛒 Order Page
+Order
 
----
-
-## ⚙️ How to Run Locally
-
-1. Clone the repository
-
-```
+⚙️ How to Run Locally
+Clone the repository
 git clone https://github.com/Priya301224/Cafe-Delight.git
 
 2. Open the project folder
