@@ -41,9 +41,11 @@ Café-Delight/
 
 ## 📸 Screenshots
 
-images/login.png
-images/menu.png
+### 🏠 Home Page
+![Home](images/home.png)
 
+### 📋 Menu Page
+![Menu](images/menu.png)
 ---
 
 
