@@ -1,4 +1,4 @@
-# ☕ Café Delight Website
+# ☕ Cafe Delight Website
 
 A modern and responsive café website built using **HTML, CSS, JavaScript, and Bootstrap**.
 This project showcases a beautifully designed user interface for a café, including menu browsing, events, ordering, and contact features.
